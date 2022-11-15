@@ -1,0 +1,5 @@
+streamlit-chat 
+streamlit
+sentence-transformers
+pandas
+numpy
