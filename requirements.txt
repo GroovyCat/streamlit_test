@@ -1,6 +1,5 @@
-streamlit-chat 
-streamlit
-sentence-transformers
-pandas
-numpy
-json
+streamlit-chat==0.0.2.1
+streamlit==1.14.0
+sentence-transformers==2.2.2
+pandas==1.5.1
+numpy==1.23.4
